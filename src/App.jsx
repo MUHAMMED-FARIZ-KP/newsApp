@@ -1,12 +1,13 @@
 
 import './App.css'
+import Layout from './components/layout/layout'
 
 function App() {
  
 
   return (
     <>
-      <h1>haai</h1>
+      <Layout/>
     </>
   )
 }
